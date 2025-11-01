@@ -1,4 +1,16 @@
 # TP6_Spring-BootSwagger-
+
+Interface FRONT-END 
+
+
+
+https://github.com/user-attachments/assets/d05f8abe-db85-40f9-be35-7ccef59b0462
+
+
+
+
+
+
 Test des endpoints REST : 
 Create :
 <img width="1440" height="900" alt="Screenshot 2025-10-26 at 8 58 17 PM" src="https://github.com/user-attachments/assets/f2a269ed-ee22-4cac-8ff2-ff419af61803" />
